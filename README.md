@@ -2,7 +2,7 @@
 
 
 
-\## I am making changes to my file! 
+\#I am making changes to my file!
 
-\## Important changes!
+\#Important changes!
 
